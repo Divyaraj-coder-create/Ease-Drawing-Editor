@@ -8,6 +8,8 @@ To run the application, execute the following command in your terminal:
 ```sh
 python3 src/main.py
 
+```
+
 Upon running, the editor window will open.
 
 ## Drawing Shapes
